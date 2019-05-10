@@ -1,26 +1,26 @@
-# presentatie Il gusto pizza
+# Presentatie Il gusto pizza
 
-## how much do i charge for this website
+## How much do i charge for this website
 
-  around 100€ 
+  Around 100€ 
 
-## the problems of the current website.
+## The problems of the current website.
 
-+ it had a weird header
-+ the background is too overwhelming
-+ they gave an opacity to the texts sections. 
++ It had a weird header
++ The background is too overwhelming
++ They gave an opacity to the texts sections. 
 
-## how did i improve on this?
+## How did i improve on this?
 
-+ i made a basic background. (red and not to overwhelming)
-+ i tried to get the same layout. just more readable.
-+ i made the slideshow full width so the ugly header is not needed.
++ I made a basic background. (red and not to overwhelming)
++ I tried to get the same layout. just more readable.
++ I made the slideshow full width so the ugly header is not needed.
 
-## old website 
+## Old website 
 
-[old website link](http://www.ilgustopizza.be/online-eten-bestellen/)
+[Old website link](http://www.ilgustopizza.be/online-eten-bestellen/)
 
-## new website
+## New website
 
 [new website link](https://aaronrockele.github.io/guerrilla/)
 
@@ -39,47 +39,47 @@
      </div>
 ~~~~ 
 
-## what would i do better if i had more time?
+## What would i do better if i had more time?
 
-+ i would have made a better README file.
-+ i'd put more work into the layout. now i used a template.
++ I would have made a better README file.
++ I'd put more work into the layout. now i used a template.
 
-## how did i build it.
+## How did i build it.
 
-i used bootstrap. i didn't write CSS. 
+I used bootstrap. i didn't write CSS. 
 
-## what did i learn?
+## What did i learn?
 
-+ i learned more about bootstrap and how to use it.
-+ working on a deadline.
++ I learned more about bootstrap and how to use it.
++ Working on a deadline.
 
-## how did i spend my time?
+## How did i spend my time?
 
- 09:15:  i looked at the ugly website and tried to see all that was wrong with it.
+ 09:15:  I looked at the ugly website and tried to see all that was wrong with it.
  
- 09:30:  i started looking for a template that looked kind of simular.
+ 09:30:  I started looking for a template that looked kind of simular.
  
- 09:40:  started working on the template
+ 09:40:  Started working on the template
  
- 10:30:  took a break
+ 10:30:  Took a break
  
- 10:45:  started back on the template
+ 10:45:  Started back on the template
  
- 12:15:  went for lunch
+ 12:15:  Went for lunch
  
- 13:15:  watch
+ 13:15:  Watch
  
- 13:25:  started filling in the content and pics.
+ 13:25:  Started filling in the content and pics.
  
- 15:00:  took a break
+ 15:00:  Took a break
 
- 15:15:  fancy everything up a little
+ 15:15:  Fancy everything up a little
  
- 16:00:  looked up the how to make a readme website
+ 16:00:  Looked up the how to make a readme website
  
- 16:15:  started working on the readme
+ 16:15:  Started working on the readme
  
- 16:30:  finished the readme
+ 16:30:  Finished the readme
  
- 17:00:  stopped working
+ 17:00:  Stopped working
  
