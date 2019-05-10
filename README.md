@@ -2,7 +2,7 @@
 
 ## how much do i charge for this website
 
-between 250 and 800 euro. 
+  around 100€ 
 
 ## the problems of the current website.
 
