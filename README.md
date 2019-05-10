@@ -51,31 +51,31 @@ i used bootstrap. i didn't write CSS.
 
 ## how did i spend my time?
 
- 09:15 i looked at the ugly website and tried to see all that was wrong with it.
+ 09:15  i looked at the ugly website and tried to see all that was wrong with it.
  
- 09:30 i started looking for a template that looked kind of simular.
+ 09:30  i started looking for a template that looked kind of simular.
  
- 09:40 started working on the template
+ 09:40  started working on the template
  
- 10:30 took a break
+ 10:30  took a break
  
- 10:45 started back on the template
+ 10:45  started back on the template
  
- 12:15 went for lunch
+ 12:15  went for lunch
  
- 13:15 watch
+ 13:15  watch
  
- 13:25 started filling in the content and pics.
+ 13:25  started filling in the content and pics.
  
- 15:00 took a break
+ 15:00  took a break
 
- 15:15 fancy everything up a little
+ 15:15  fancy everything up a little
  
- 16:00 looked up the how to make a readme website
+ 16:00  looked up the how to make a readme website
  
- 16:15 started working on the readme
+ 16:15  started working on the readme
  
- 16:30 finished the readme
+ 16:30  finished the readme
  
- 17:00 stopped working
+ 17:00  stopped working
  
