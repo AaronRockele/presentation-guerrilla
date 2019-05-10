@@ -1,4 +1,4 @@
-# Presentatie Il gusto pizza
+# Presentation: Il gusto pizza
 
 ## How much do i charge for this website
 
