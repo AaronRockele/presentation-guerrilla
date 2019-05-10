@@ -23,14 +23,14 @@ between 250 and 800 euro.
 ## HTML code 
 
 ~~~~ 
-                    <div class="card h-90">
-                    <img class="card-img-top" src="https://images.vrt.be/dako2017_1600s_j75/2019/02/04/ee37f425-2880-11e9-abcc-02b7b76bf47f.jpg" alt="">
-                    <div class="card-body">
-                        <h4 class="card-title">Antwerpen-Berchem</h4>
-                    </div>
-                    <p class="card-text">Troyentenhoflaan 44, <br>
-                        2600 Antwerpen</p>
-                    <div class="card-footer">
-                        <a href="#" class="btn btn-primary">Bestel online</a>
-                    </div>
+     <div class="card h-90">
+     <img class="card-img-top" src="https://images.vrt.be/dako2017_1600s_j75/2019/02/04/ee37f425-2880-11e9-abcc-02b7b76bf47f.jpg" alt="">
+     <div class="card-body">
+     <h4 class="card-title">Antwerpen-Berchem</h4>
+     </div>
+     <p class="card-text">Troyentenhoflaan 44, <br>
+        2600 Antwerpen</p>
+     <div class="card-footer">
+     <a href="#" class="btn btn-primary">Bestel online</a>
+     </div>
 ~~~~ 
